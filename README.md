@@ -1,4 +1,4 @@
-# Anagrams-CLI
+# ANAGRAMS-CLI
 
 This application reads through an input file (word dictionary), generates all possible anagrams and prints the results to an output file.
 
